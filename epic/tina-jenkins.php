@@ -11,11 +11,11 @@
 			<li>Name: Tina Jenkens</li>
 			<li>Age: 37</li>
 			<li>Occupation: Stay at home mom.</li>
-			<li>Technology: </li>
-			<li>Needs: Glenda's daughters 15th birthday is coming up and she needs to get a relatively cheap but nice gift because her and her daughters apple fetish has drained her bank account and credit score. </li>
+			<li>Technology: iPhone 7 updated to iOS 10, with an older HP Laptop using windows 7 ultimate.</li>
+			<li>Needs: Needs to find a new house for her family.</li>
 			<li>Goals: Glendas goals are to try and keep her daughters love and to be surrounded by apple products constantly.</li>
 		</ul>
-		<h4>Use case of Glenda Gottrocks</h4>
+		<h4>Use case of Tina Jenkins</h4>
 		<ol>
 			<li>Glenda is at work in the afternoon at about 16:00 when she realizes that she forgot to get her daughter a present for her birthday tomorrow so she pulls out her trust iPhone and opens safari to see what she can find.</li>
 			<li>She has to look into local places since there is no time to have something shipped and finds that Balloon Cocoons is a local business that sells quirky balloons stuffed with teddy bears, candy, flowers, etc.</li>
